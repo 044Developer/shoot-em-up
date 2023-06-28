@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05688b92dbad4190b2279df6502adc8b, type: 3}
+  m_Name: core_prefabs_static_data
+  m_EditorClassIdentifier: 
+  _cameraViewPrefab: {fileID: 7501891090149897497, guid: a6ed066afbddf6b4cb845faa04a75e7d, type: 3}
+  _playerViewPrefab: {fileID: 2302596442993875381, guid: 1e52a1d9c9152e54894bfcca1805ee13, type: 3}
+  _joystickHandler: {fileID: 9100920043277611023, guid: b6fe5ccabea94924d84f12604f44e263, type: 3}
